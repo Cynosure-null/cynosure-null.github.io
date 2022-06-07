@@ -1,0 +1,15 @@
+#+TITLE: Cynoservices
+
+* About
+Cynoservices is a collection of self-hostable services for anyone to use. Keep in mind most of these are hosted on free VPS servers, so don't expect high speeds.
+Due to the use of free servers, do not use these for information you wish to keep private as it will probably get put in an Amazon database.
+Anyhow, if that didn't scare you away, check out this list of services
+
+* Services
+** [[https://personal.cynoservices.live][Personal site]]
+A personal site for me. Pretty sparse at the moment but it should be developed more
+*** Info:
++ Host: [[https://neocities.org][neocities]]
++ Repo: N/A
++ Use: Public
+
